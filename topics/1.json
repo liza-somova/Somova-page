@@ -81,18 +81,6 @@
         {
             "type": "image",
             "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/09_A4.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Диаграмма A51-A53"
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/13_A5n.png?raw=true" 
         }
     ]
 }
