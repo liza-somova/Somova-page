@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
+        "title": "IDEF0-диаграммы",
+        "description": "Подготовка диаграмм IDEF0 курсового проекта",
         "preview": "img/0001_A-0.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
+        "title": "DFD-диаграммы",
+        "description": "Подготовка диаграмм DFD курсового проекта",
         "preview": "img/0006_A31.png"
     },
         {
         "id": 3,
-        "title": "Квадратик 3",
-        "description": "Диаграмма квадаиков",
-        "preview": "img/Диаграмма прецедентов2.png"
+        "title": "UML-диаграммы",
+        "description": "Составление диаграмм UML курсового проекта",
+        "preview": "img/dprecedentov.png"
     }
 ]
