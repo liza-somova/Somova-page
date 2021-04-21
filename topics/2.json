@@ -1,6 +1,62 @@
 {
-    "title": "UML Class",
+    "title": "DFD-диаграммы",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Функциональное моделирование программных и информационных средств ",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Конфигурация технических средств: ПК с операционной системой Microsoft Windows 10, MySQL сервер, Web-сервер IIS. "
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Конфигурация программных средств: трехуровневая "
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Допустимые виды хранилищ и их размещение:** реляционная БД MySQL."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А31"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/0006_A31.png?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А33"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/0007_A333.png?raw=true" 
+        }  
     ]
 }
