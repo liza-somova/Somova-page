@@ -1,7 +1,102 @@
-
 {
-    "title": "UML Class",
-    "items": [
-        
-    ]
+    "title": "Создание диаграмм UML курсового проекта",
+    "items": [  
+      {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Use Case"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/dprecedentov.png?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: схема БД, описание ролей, модулей ИС для ведения БД по СЦТ"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Логическая схема БД:"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/logichshema.png?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма ролей:"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/droley.png?raw=true" 
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма модулей:"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/dmoduley.png?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемые процессы и потоки данных: создание и настройка сервера и БД, заполнение БД, отображение данных БД на web-странице"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/dposledovat.png?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: Компоненты ИС для ведения БД по СЦТ"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Deployment",
+                    "link": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_component.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/komponent.png?raw=true" 
+        }
+      ]
 }
